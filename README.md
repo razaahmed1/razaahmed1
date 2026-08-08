@@ -21,7 +21,6 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=razaahmed1&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
-<img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Status&query=%24.status&url=https%3A%2F%2Fapi.github.com%2Fusers%2Frazaahmed1&style=for-the-badge&logo=github" alt="status"/>
 
 </div>
 
@@ -255,9 +254,6 @@ solving problems, making mistakes, and continuously improving.
 
 <div align="center">
 
-<a href="https://github.com/razaahmed1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/raza-ahmed1/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
