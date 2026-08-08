@@ -1,16 +1,23 @@
 <div align="center">
 
-# 👨‍💻 Ahmed Raza
+# ⚡ Ahmed Raza
 
-### Software Engineer in Progress • AI/ML Enthusiast • Full-Stack Developer
+### Software Engineer • AI/ML Developer • Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Real-World+Software+%F0%9F%9A%80;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Developing+Full-Stack+Applications+%F0%9F%92%BB;Turning+Ideas+Into+Working+Products+%E2%9A%A1" alt="Typing SVG" />
+<p>
+  <i>Turning ideas into intelligent, scalable software.</i>
+</p>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Real-World+Software+%F0%9F%9A%80;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Developing+Full-Stack+Applications+%F0%9F%92%BB;Learning+Something+New+Every+Day+%F0%9F%93%9A" alt="Typing SVG" />
+
+<br><br>
+
 <a href="https://github.com/razaahmed1">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,13 +30,13 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 👋 About Me
 
-I'm **Ahmed Raza**, a Software Engineering student passionate about creating software that solves real-world problems.
+I'm **Ahmed Raza**, a Software Engineering student passionate about building modern software solutions and exploring the world of Artificial Intelligence.
 
-My main interests are **Artificial Intelligence, Machine Learning, Full-Stack Development, and Software Engineering**.
+My interests sit at the intersection of **software engineering, AI/ML, and full-stack development**.
 
-I enjoy taking an idea from:
+I enjoy transforming ideas into working applications — from designing databases and building backend logic to experimenting with machine learning models.
 
 ```text
 💡 Idea
@@ -45,22 +52,23 @@ I enjoy taking an idea from:
 🚀 Deployment
 ```
 
-### 🔥 What I Do
+### 🔥 What I'm Into
 
-* 🤖 Explore **Artificial Intelligence & Machine Learning**
-* 🌐 Build **Full-Stack Web Applications**
-* 🗄️ Design and work with **Databases**
-* 🧠 Solve programming and software engineering problems
-* 🔧 Build academic and personal projects
-* 📚 Continuously learn modern technologies
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Full-Stack Web Development
+* 🐍 Python Development
+* 🗄️ Database Design & Development
+* 🧠 Problem Solving & Algorithms
+* 🏗️ Software Architecture
+* 🚀 Building Real-World Projects
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,php,js,html,css" />
 
@@ -70,7 +78,7 @@ I enjoy taking an idea from:
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -85,7 +93,7 @@ I enjoy taking an idea from:
 
 <br><br>
 
-### 🗄️ Database & Development Tools
+### 🗄️ Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
 
@@ -95,105 +103,69 @@ I enjoy taking an idea from:
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-## 🤖 Tesla Price Prediction
-
-Machine Learning project focused on analyzing historical Tesla stock data and building predictive models.
-
-**Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Jupyter`
-
-</td>
-
-<td width="50%">
-
-## 📚 Book Shop Management
-
-A C++ based management system designed to handle bookstore operations and management workflows.
-
-**Stack**
-
-`C++` `OOP` `File Handling`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🗄️ Database Management System
-
-A database-oriented application demonstrating CRUD operations, database connectivity, and structured data management.
-
-**Stack**
-
-`PHP` `MySQL` `HTML` `CSS`
-
-</td>
-
-<td width="50%">
-
-## 🧠 More Projects Coming
-
-I'm continuously building and experimenting with new projects across:
-
-`AI` • `ML` • `Web` • `Software Engineering`
-
-🚀 Stay tuned!
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Currently Exploring
-
 <div align="center">
 
-| Area                       | Focus                         |
-| -------------------------- | ----------------------------- |
-| 🤖 Artificial Intelligence | ML & Intelligent Applications |
-| 🧠 Machine Learning        | Models & Data Analysis        |
-| 🌐 Full-Stack              | Frontend + Backend            |
-| 🗄️ Databases              | SQL & Data Modeling           |
-| 🏗️ Software Engineering   | Architecture & Design         |
-| 🧩 Problem Solving         | Algorithms & Programming      |
+|               Project              | Description                                                                                        |        Technology       |
+| :--------------------------------: | :------------------------------------------------------------------------------------------------- | :---------------------: |
+|    🤖 **Tesla Price Prediction**   | Machine Learning project for analyzing historical Tesla stock data and building predictive models. | `Python` `ML` `Jupyter` |
+|     📚 **Book Shop Management**    | C++ management system for handling bookstore operations and records.                               |       `C++` `OOP`       |
+| 🗄️ **Database Management System** | Application demonstrating database connectivity and CRUD operations.                               |      `PHP` `MySQL`      |
+|       💻 **More Coming Soon**      | Currently building and experimenting with new software and AI projects.                            |  `AI` `ML` `Full-Stack` |
 
 </div>
 
 ---
 
-# 📈 My Developer Journey
+# 🧠 Areas of Interest
 
 ```text
-Software Engineering
-        │
-        ├── 💻 Programming
-        │      ├── C / C++
-        │      ├── Python
-        │      └── JavaScript
-        │
-        ├── 🌐 Web Development
-        │      ├── Frontend
-        │      └── Backend
-        │
-        ├── 🗄️ Databases
-        │      └── MySQL
-        │
-        └── 🤖 Artificial Intelligence
-               ├── Machine Learning
-               ├── Data Analysis
-               └── Intelligent Applications
+┌─────────────────────────────────────────────┐
+│                                             │
+│       🤖 Artificial Intelligence             │
+│                    │                        │
+│                    ▼                        │
+│             🧠 Machine Learning             │
+│                    │                        │
+│                    ▼                        │
+│          🌐 Full-Stack Development          │
+│                    │                        │
+│                    ▼                        │
+│          🏗️ Software Engineering            │
+│                    │                        │
+│                    ▼                        │
+│             🚀 Real Products               │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
+
+---
+
+# 📈 Currently Learning
+
+* 🔹 Advanced Python
+* 🔹 Machine Learning
+* 🔹 Artificial Intelligence
+* 🔹 Full-Stack Development
+* 🔹 Backend Development
+* 🔹 REST APIs
+* 🔹 Database Architecture
+* 🔹 Data Structures & Algorithms
+* 🔹 Software Architecture
+* 🔹 System Design
+* 🔹 Git & GitHub
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] 🚀 Build production-ready applications
+* [ ] 🤖 Develop meaningful AI/ML projects
+* [ ] 🌐 Strengthen full-stack development
+* [ ] 🧠 Improve problem-solving skills
+* [ ] 🏗️ Learn system design & architecture
+* [ ] 🌍 Contribute to open-source projects
+* [ ] 📚 Build a strong technical portfolio
+* [ ] 💼 Become a professional Software Engineer
 
 ---
 
@@ -217,7 +189,7 @@ Software Engineering
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -227,51 +199,22 @@ Software Engineering
 
 ---
 
-# 🎯 2026 Roadmap
+# 💭 Developer Philosophy
 
-```text
-                    2026
-                      │
-          ┌───────────┴───────────┐
-          │                       │
-     💻 Full-Stack             🤖 AI/ML
-          │                       │
-          ├─ Backend              ├─ Machine Learning
-          ├─ APIs                 ├─ Data Analysis
-          ├─ Databases            └─ AI Applications
-          │
-          └───────────┬───────────┘
-                      │
-                🏗️ Real Projects
-                      │
-                      ↓
-             🚀 Professional Engineer
-```
+<div align="center">
 
-### My Goals
+### `"Build. Break. Learn. Improve. Repeat."`
 
-* [ ] Build production-ready applications
-* [ ] Master backend development
-* [ ] Strengthen AI/ML fundamentals
-* [ ] Build meaningful AI projects
-* [ ] Improve system design
-* [ ] Contribute to open source
-* [ ] Grow my GitHub portfolio
-* [ ] Become a professional Software Engineer
+<br>
+
+I believe real growth comes from building things, <br>
+solving problems, making mistakes, and continuously improving.
+
+</div>
 
 ---
 
-# 💡 Developer Philosophy
-
-> ### **"Don't just learn technology. Build something with it."**
-
-I believe the best way to learn software engineering is to **build, break, debug, improve, and build again.**
-
-Every project is an opportunity to learn something new.
-
----
-
-# 🌐 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -285,7 +228,7 @@ Every project is an opportunity to learn something new.
 
 <br><br>
 
-### ⭐ If you find my projects useful, consider giving them a star!
+### ⭐ Explore my repositories and follow my journey!
 
 </div>
 
@@ -293,8 +236,6 @@ Every project is an opportunity to learn something new.
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
