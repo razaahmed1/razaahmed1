@@ -17,8 +17,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=razaahmed1&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
